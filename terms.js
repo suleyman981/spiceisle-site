@@ -1,0 +1,1 @@
+export default ()=> (<div className='container section'><h1 class='h1'>Terms</h1><p>Coming soon.</p></div>)

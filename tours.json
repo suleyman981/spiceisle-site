@@ -1,0 +1,653 @@
+[
+  {
+    "slug": "stone-town-prison-island-nakupenda",
+    "title": "Stone Town + Prison Island + Nakupenda Sandbank",
+    "summary": "Full-day trio: UNESCO Stone Town, Aldabra tortoises on Prison Island, and a Nakupenda sandbank swim with seafood BBQ.",
+    "pricing": {
+      "standard": {
+        "1": 190,
+        "2": 120,
+        "3": 95,
+        "4": 85,
+        "5": 80,
+        "6": 70
+      }
+    },
+    "inclusions": [
+      "Hotel pickup & drop-off",
+      "Seafood BBQ lunch, fruits, soft drinks/water",
+      "Boat ride",
+      "Snorkelling gear (on request)",
+      "Experienced guide",
+      "Entry fees & taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear",
+      "Modest clothing to respect culture"
+    ]
+  },
+  {
+    "slug": "spice-farm-stone-town-prison-island",
+    "title": "Spice Farm + Stone Town + Prison Island",
+    "summary": "Spice tastings, Stone Town walking tour, then boat to Prison Island to meet giant tortoises.",
+    "pricing": {
+      "standard": {
+        "1": 165,
+        "2": 90,
+        "3": 65,
+        "4": 55,
+        "5": 45,
+        "6": 40
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Fruits & water",
+      "Boat fees",
+      "Guide",
+      "Entry fees & taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear for Prison Island",
+      "Modest clothing"
+    ]
+  },
+  {
+    "slug": "spice-farm-stone-town-emerson",
+    "title": "Spice Farm + Stone Town + Emerson Spice (meal optional)",
+    "summary": "Spice farm, Stone Town walking tour, and optional lunch at Emerson Spice (Secret Garden or Rooftop).",
+    "pricing": {
+      "standard": {
+        "1": 170,
+        "2": 105,
+        "3": 85,
+        "4": 75,
+        "5": 65,
+        "6": 60
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Stone Town entries",
+      "Spice farm entry",
+      "Taxes"
+    ],
+    "notes": [
+      "Meal at Emerson not included",
+      "Modest clothing & comfortable shoes"
+    ]
+  },
+  {
+    "slug": "jozani-stone-town-emerson",
+    "title": "Jozani Forest + Stone Town + Emerson Spice (meal optional)",
+    "summary": "See Red Colobus monkeys at Jozani, then Stone Town walk; optional lunch at Emerson Spice.",
+    "pricing": {
+      "standard": {
+        "1": 185,
+        "2": 120,
+        "3": 100,
+        "4": 90,
+        "5": 80,
+        "6": 75
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Jozani entry",
+      "Stone Town entries",
+      "Taxes"
+    ],
+    "notes": [
+      "Meal at Emerson not included",
+      "Modest clothing & walking shoes"
+    ]
+  },
+  {
+    "slug": "jozani-spice-farm",
+    "title": "Jozani Forest + Spice Farm",
+    "summary": "Half\u2011day: Jozani Red Colobus & mangroves, then spice farm tastings.",
+    "pricing": {
+      "standard": {
+        "1": 135,
+        "2": 75,
+        "3": 55,
+        "4": 45,
+        "5": 40,
+        "6": 35
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Jozani entry",
+      "Spice farm entry",
+      "Taxes"
+    ],
+    "notes": [
+      "Modest clothing & walking shoes"
+    ]
+  },
+  {
+    "slug": "jozani-spice-stone-town",
+    "title": "Jozani Forest + Spice Farm + Stone Town",
+    "summary": "Nature, flavours and heritage\u2014Jozani, a spice farm and Stone Town in one day.",
+    "pricing": {
+      "standard": {
+        "1": 145,
+        "2": 80,
+        "3": 60,
+        "4": 50,
+        "5": 40,
+        "6": 35
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Jozani entry",
+      "Spice farm entry",
+      "Stone Town entries",
+      "Taxes"
+    ],
+    "notes": [
+      "Modest clothing & walking shoes"
+    ]
+  },
+  {
+    "slug": "mnemba-half-day-snorkeling",
+    "title": "Mnemba Island Half\u2011Day Snorkelling (shared)",
+    "summary": "Boat to Mnemba for dolphin spotting (not guaranteed), snorkelling reef, sandbank fruit lunch.",
+    "pricing": {
+      "standard": {
+        "1": 150,
+        "2": 80,
+        "3": 60,
+        "4": 45,
+        "5": 40,
+        "6": 35
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Fruits",
+      "Snorkelling gear",
+      "Guide",
+      "Boat",
+      "Mnemba entry",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear"
+    ]
+  },
+  {
+    "slug": "mnemba-full-day-luxury",
+    "title": "Mnemba Island Full\u2011Day Luxury",
+    "summary": "Traditional dhow, dolphins (not guaranteed), snorkelling, sandbank, Swahili lunch, sunset sail.",
+    "pricing": {
+      "sharing": {
+        "1": 200,
+        "2": 140,
+        "3": 120,
+        "4": 110,
+        "5": 105,
+        "6": 100
+      },
+      "private": {
+        "1": 320,
+        "2": 235,
+        "3": 190,
+        "4": 155,
+        "5": 135,
+        "6": 130
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Fruits",
+      "Swahili lunch on board",
+      "Snorkelling gear",
+      "Guide",
+      "Dhow",
+      "Mnemba entry",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear"
+    ]
+  },
+  {
+    "slug": "swim-with-turtles",
+    "title": "Swim with Turtles (Sanctuary)",
+    "summary": "Choose Salaam Cave or Baraka Aquarium for a guided turtle swim.",
+    "pricing": {
+      "standard": {
+        "1": 130,
+        "2": 70,
+        "3": 50,
+        "4": 40,
+        "5": 35,
+        "6": 30
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Aquarium entry",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring swimsuits & towels; no chemicals in water"
+    ]
+  },
+  {
+    "slug": "mnemba-plus-turtles",
+    "title": "Mnemba Island + Swim with Turtles",
+    "summary": "Snorkel Mnemba & sandbank fruit lunch, then Baraka Turtle Aquarium.",
+    "pricing": {
+      "standard": {
+        "1": 170,
+        "2": 100,
+        "3": 75,
+        "4": 65,
+        "5": 60,
+        "6": 55
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Fruits",
+      "Snorkelling gear",
+      "Guide",
+      "Boat",
+      "Mnemba & Aquarium entries",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear"
+    ]
+  },
+  {
+    "slug": "horse-riding-plus-turtles",
+    "title": "Horse Riding + Swim with Turtles",
+    "summary": "Baraka Aquarium plus a 30\u2011minute horse swim at Nungwi (experienced riders, 5+ yrs).",
+    "pricing": {
+      "standard": {
+        "1": 190,
+        "2": 130,
+        "3": 110,
+        "4": 100,
+        "5": 95,
+        "6": 90
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Aquarium entry",
+      "30\u2011min horse riding",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear; riders must be experienced & 5+ yrs"
+    ]
+  },
+  {
+    "slug": "maasai-world-plus-turtles",
+    "title": "Maasai World + Turtle Aquarium (Half\u2011Day)",
+    "summary": "1h30 Maasai cultural visit then Baraka Turtle Aquarium.",
+    "pricing": {
+      "standard": {
+        "1": 145,
+        "2": 85,
+        "3": 65,
+        "4": 55,
+        "5": 50,
+        "6": 45
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Aquarium entry",
+      "Maasai experience",
+      "Taxes"
+    ],
+    "notes": [
+      "Modest clothing"
+    ]
+  },
+  {
+    "slug": "jetski-kendwa",
+    "title": "Jetski Riding (30 min, Kendwa)",
+    "summary": "Instruction, life jacket, 30\u2011minute jetski ride, soft drink and drone photos.",
+    "pricing": {
+      "standard": {
+        "1": 170,
+        "2": 110,
+        "3": 90,
+        "4": 80,
+        "5": 75,
+        "6": 70
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide/instructor",
+      "30\u2011min jetski",
+      "Soft drink",
+      "Free drone photos/videos",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring swimwear"
+    ]
+  },
+  {
+    "slug": "quad-riding-adventure",
+    "title": "Quad Riding Adventure (4 hours)",
+    "summary": "From Nungwi to Kaskazini & Kendwa, village visit, fruits and refreshments.",
+    "pricing": {
+      "one_per_quad": {
+        "1": 230,
+        "2": 170,
+        "3": 150,
+        "4": 140,
+        "5": 135,
+        "6": 130
+      },
+      "two_per_quad": {
+        "2": 125,
+        "4": 95,
+        "6": 85
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "4h quad riding (CR Moto 520)",
+      "Fruits & refreshments",
+      "Free drone photos/videos",
+      "Taxes"
+    ],
+    "notes": [
+      "Modest clothing per local culture"
+    ]
+  },
+  {
+    "slug": "horse-plus-transparent-kayak",
+    "title": "Horse Riding + Transparent Kayak",
+    "summary": "30\u2011minute horse swim at Nungwi & 30\u2011minute transparent kayak session.",
+    "pricing": {
+      "standard": {
+        "1": 200,
+        "2": 140,
+        "3": 120,
+        "4": 110,
+        "5": 105,
+        "6": 100
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "30\u2011min kayak",
+      "30\u2011min horse swim",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring swimwear",
+      "Lunch not included (can be arranged)"
+    ]
+  },
+  {
+    "slug": "sunset-cruise-nungwi",
+    "title": "Sunset Cruising (Nungwi)",
+    "summary": "2\u2011hour sharing dhow cruise with local snacks, fruits, soft drinks, drumming & singing.",
+    "pricing": {
+      "standard": {
+        "1": 130,
+        "2": 70,
+        "3": 50,
+        "4": 40,
+        "5": 35,
+        "6": 30
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Dhow sailing",
+      "Local snacks & fruits",
+      "Soft drinks",
+      "Taxes"
+    ],
+    "notes": []
+  },
+  {
+    "slug": "jozani-spice-cooking",
+    "title": "Jozani + Spice Farm + Cooking Class",
+    "summary": "Jozani nature, spice tastings, then hands\u2011on Zanzibari cooking class with lunch.",
+    "pricing": {
+      "standard": {
+        "1": 180,
+        "2": 100,
+        "3": 75,
+        "4": 65,
+        "5": 60,
+        "6": 55
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Jozani entry",
+      "Spice farm entry",
+      "Cooking class & lunch",
+      "Taxes"
+    ],
+    "notes": [
+      "Modest clothing & walking shoes"
+    ]
+  },
+  {
+    "slug": "spice-cooking",
+    "title": "Spice Farm + Cooking Class",
+    "summary": "Spice tour then cook authentic dishes with local chefs. Lunch included.",
+    "pricing": {
+      "standard": {
+        "1": 160,
+        "2": 80,
+        "3": 60,
+        "4": 50,
+        "5": 45,
+        "6": 40
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Spice farm entry",
+      "Cooking class & lunch",
+      "Taxes"
+    ],
+    "notes": [
+      "Modest clothing & walking shoes"
+    ]
+  },
+  {
+    "slug": "safari-blue",
+    "title": "Safari Blue (Full Day)",
+    "summary": "Menai Bay dhow, snorkelling, sandbanks and seafood lunch.",
+    "pricing": {
+      "sharing": {
+        "1": 140,
+        "2": 80,
+        "3": 60,
+        "4": 50,
+        "5": 45,
+        "6": 40
+      },
+      "private": {
+        "1": 170,
+        "2": 110,
+        "3": 90,
+        "4": 80,
+        "5": 75,
+        "6": 70
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Fruits",
+      "Seafood lunch & Swahili foods",
+      "Snorkelling gear",
+      "Guide",
+      "Dhow",
+      "Safari Blue fees",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear"
+    ]
+  },
+  {
+    "slug": "pungume-luxury",
+    "title": "Pungume Island Luxurious Full Day",
+    "summary": "From Kizimkazi: sandbank swim, seafood BBQ & Swahili curry, snorkelling, mangroves and creeks.",
+    "pricing": {
+      "sharing": {
+        "1": 190,
+        "2": 130,
+        "3": 110,
+        "4": 100,
+        "5": 95,
+        "6": 90
+      },
+      "private": {
+        "1": 320,
+        "2": 220,
+        "3": 180,
+        "4": 150,
+        "5": 135,
+        "6": 120
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Fruits",
+      "Lunch on board",
+      "Unlimited drinks",
+      "Snorkelling gear",
+      "Guide",
+      "Dhow",
+      "Pungume entry",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear"
+    ]
+  },
+  {
+    "slug": "cheetah-rocks",
+    "title": "Cheetah Rocks (Half Day)",
+    "summary": "Wildlife sanctuary visit with conservation talk and close\u2011up cheetah experience (14+ only; open Sun/Tue/Wed/Thu).",
+    "pricing": {
+      "standard": {
+        "1": 280,
+        "2": 220,
+        "3": 200,
+        "4": 190,
+        "5": 185,
+        "6": 180
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Entrance & service fees",
+      "Taxes"
+    ],
+    "notes": [
+      "Ages 14+ only; specific open days"
+    ]
+  },
+  {
+    "slug": "kuza-mtende-usumba",
+    "title": "Kuza Cave + Mtende Beach + Usumba Rock Restaurant",
+    "summary": "Swim in Kuza Cave, relax at Mtende Beach, then lunch at Usumba Rock (meal not included).",
+    "pricing": {
+      "standard": {
+        "1": 135,
+        "2": 75,
+        "3": 55,
+        "4": 45,
+        "5": 40,
+        "6": 35
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Kuza Cave entry",
+      "Mtende entry",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear",
+      "Lunch at Usumba Rock not included"
+    ]
+  },
+  {
+    "slug": "kuza-rock-restaurant",
+    "title": "Kuza Cave + The Rock Restaurant",
+    "summary": "Swim at Kuza Cave, then iconic lunch at The Rock (includes $10 meal voucher).",
+    "pricing": {
+      "standard": {
+        "1": 145,
+        "2": 85,
+        "3": 65,
+        "4": 55,
+        "5": 50,
+        "6": 45
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Kuza Cave entry",
+      "$10 meal voucher",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear",
+      "Restaurant bill depends on menu"
+    ]
+  },
+  {
+    "slug": "kuza-or-maalum-plus-turtles",
+    "title": "Kuza or Maalum Cave + Swim with Turtles",
+    "summary": "Choose Kuza or Maalum Cave swim, then Salaam Cave turtle sanctuary.",
+    "pricing": {
+      "standard": {
+        "1": 150,
+        "2": 90,
+        "3": 70,
+        "4": 60,
+        "5": 55,
+        "6": 50
+      }
+    },
+    "inclusions": [
+      "Transfers",
+      "Guide",
+      "Cave entry",
+      "Turtle sanctuary entry",
+      "Taxes"
+    ],
+    "notes": [
+      "Bring towels & swimwear"
+    ]
+  }
+]
