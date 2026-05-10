@@ -32,6 +32,54 @@ function App() {
 
       <div className="ticks"></div>
 
+      <section id="arsenal-update" aria-labelledby="arsenal-title">
+        <div className="update-heading">
+          <p className="eyebrow">Latest checked: 10 May 2026</p>
+          <h2 id="arsenal-title">Arsenal season update</h2>
+          <p>
+            A quick look at how the Gunners are tracking in the Premier League
+            and Champions League this season.
+          </p>
+        </div>
+
+        <div className="update-grid">
+          <article className="update-card">
+            <span className="competition">Premier League</span>
+            <strong>1st place</strong>
+            <p>
+              Arsenal are leading the table on 76 points from 35 matches, with a
+              +41 goal difference and Champions League qualification already
+              secured.
+            </p>
+            <a
+              href="https://www.nbcsports.com/premier-league-table-2025-26-season-standings"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View table
+            </a>
+          </article>
+
+          <article className="update-card">
+            <span className="competition">Champions League</span>
+            <strong>Final booked</strong>
+            <p>
+              Arsenal beat Atletico Madrid 2-1 on aggregate in the semi-final
+              and are set to face Paris Saint-Germain in Budapest on 30 May.
+            </p>
+            <a
+              href="https://www.uefa.com/uefachampionsleague/news/029c-1e9a2f63fe2d-ebf9ad643892-1000--202526-champions-league-all-the-league-phase-fixtures/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View fixtures
+            </a>
+          </article>
+        </div>
+      </section>
+
+      <div className="ticks"></div>
+
       <section id="next-steps">
         <div id="docs">
           <svg className="icon" role="presentation" aria-hidden="true">
